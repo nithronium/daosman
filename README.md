@@ -1,6 +1,6 @@
 ## Welcome to daosman. 
 
-This is a personal project where I am to explore what 
+This is a personal project where I am going to explore what 
 we can do with DAOs. Initially I was planning to go big 
 however I have realized that it is better to code a mini 
 DAO first and see the possibilities of this technology.
